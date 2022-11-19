@@ -30,7 +30,7 @@ Les dérives du mésusage des données récoltées par *Spotify* alimentent éga
 Par ailleurs, la précision de ces données est telle qu’elle permet de déduire des traits identitaires d’un utilisateur en fonction des titres écoutés. (Marwick, 2013) Les différentes chansons portant des connotations L.G.B.T.Q.+, ou plus directement, interprétées par des artistes faisant ouvertement partie de ladite communauté, peuvent par exemple suffire quant à l'évaluation et à la création d’un profil d’un utilisateur.
 Si la différence sensible entre le « dire faire » et le « faire » représentait auparavant un frein à l’appréhension quantitative des phénomènes sociaux sur les plateformes numériques, cette dernière pourrait désormais être aisément déconstruite par les statistiques découlant de la vente et éventuellement de la publication des données d’écoutes des utilisateurs, et ce, compte tenu du caractère extrêmement personnel que comporte et véhicule la musique, à leur dépens. 
 
-img {width : 250px;height : auto;}
+img {width : 250px;height : auto}
 ![imagenet logo](https://dbdzm869oupei.cloudfront.net/img/alfombretaratoli/preview/30565.png)
 
 ### Quelles réalités ces données/indicateurs sont-ils censés représenter ?
