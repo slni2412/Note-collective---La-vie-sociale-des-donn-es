@@ -44,10 +44,10 @@ D’autres problèmes de catégorisation surviennent quant à la classification 
 
 ## **Bibliographie**
 
-- Chrystal, K. A. & Mizen, P. D., 2001. Goodhart's Law: Its Origins, Meaning and Implications for Monetary Policy . s.l.:s.n.
-- Desrosières, A., 2013. Pour une sociologie historique de la quantification. L’argument statistique I. Paris: Presses des Mines.
-- Espeland, W. & Sauder, M., 2007. Rankings and Reactivity: How Public Measures Recreate Social Worlds. American Journal of Sociology, CXIII(1).
-- Marwick, A. E., 2013. Status update : celebrity, publicity, and branding in the social media age. New Haven: Yale University Press.
-- Pariser, E., 2011. The filter bubble. London: Penguin Books.
-- Supiot, A., 2015. La gouvernance par les nombres, Cours au Collège de France (2012-2014). Paris: Coll. « Poids et Mesures du Monde », Fayard.
-- Thévenot, L., 1992. Des chiffres parlants: Mesure statistique et jugement ordinaire. Paris: La cité des chiffres.
+- Chrystal, K. A. & Mizen, P. D., 2001. *Goodhart's Law: Its Origins, Meaning and Implications for Monetary Policy* . s.l.:s.n.
+- Desrosières, A., 2013. *Pour une sociologie historique de la quantification. L’argument statistique I*. Paris: Presses des Mines.
+- Espeland, W. & Sauder, M., 2007. Rankings and Reactivity: How Public Measures Recreate Social Worlds. *American Journal of Sociology*, CXIII(1).
+- Marwick, A. E., 2013. *Status update : celebrity, publicity, and branding in the social media age*. New Haven: Yale University Press.
+- Pariser, E., 2011. *The filter bubble*. London: Penguin Books.
+- Supiot, A., 2015. *La gouvernance par les nombres, Cours au Collège de France (2012-2014)*. Paris: Coll. « Poids et Mesures du Monde », Fayard.
+- Thévenot, L., 1992. *Des chiffres parlants: Mesure statistique et jugement ordinaire*. Paris: La cité des chiffres.
