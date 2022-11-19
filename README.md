@@ -1,22 +1,22 @@
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-# Enquete sur le classement des flux d’écoute *Spotify*
+# **Enquête sur le classement des flux d’écoute *Spotify***
 
 ## Dans quelle mesure *Spotify* remodèle les usages de ses utilisateurs, ainsi que l'organisation de l'industrie musicale à travers sa base de données de classement des flux d'écoute ?
 
-## Introduction
+## **Introduction**
 
-## I - Conception
+## **I - Conception**
 
 ### Qui a créé ce jeu de données ? À quelles fins ?
 
 ### Quelles catégories sont utilisées pour le représenter ?
 
-## II - Usages
+## **II - Usages**
 
 ### Quels sont les usages de ce jeu de données ?
 
-## III - Controverses
+## **III - Controverses**
 
 ### Quelles sont les limites ou les critiques rencontrées par ce jeu données ?
 
@@ -40,9 +40,9 @@ Les données récoltées et mises en avant dans le cadre des classements *Spotif
 De fait, tout codage est un désalignement dont la capacité est limitée et ne permet pas de retranscrire la complexité individuelle et marginalise les utilisateurs dont les préférences musicales ne sont pas reflétées par les différents classements de *Spotify*. Suivant la même logique, de manière diamétralement opposée, ces classements créés une nouvelle catégorie d’écouteurs, celles de ceux qui s’y identifient bel et bien et écoutent les chansons les plus écoutées figurant dans les classements tendances. Ces derniers entretiennent ainsi le nouveau paradigme des comportements des auditeurs qui influencent les statistiques des classements et qui à leur tour impactent les habitudes musicales des auditeurs. Ces utilisateurs sont quant à eux, également paradoxalement stigmatisés par leur manque de diversité et d’originalité ne transparaissant pas dans leurs choix musicaux. (Thévenot, 1992)
 D’autres problèmes de catégorisation surviennent quant à la classification des artistes dans tel ou tel genre musical. De fait, si certains interprètes correspondent relativement aux différentes catégories musicales établies, la diversité du style musical de certains ne permet pas d’effectuer une catégorisation reflétant la variété des genres musicaux, parfois multiples au sein d’une même chanson. Les limites de la catégorisation ne s’arrêtant pas au simple genre musical, l’identité même des artistes, de leurs sexes à leurs origines en passant par leur ancienneté, et restreinte dans des catégories qui ne reflètent pas non seulement leur pluralité artistique, mais également les discrimine en réduisant leur talent et popularité à leur identité quel qu’elle soit. 
 
-## Conclusion
+## **Conclusion**
 
-## Bibliographie
+## **Bibliographie**
 
 - Chrystal, K. A. & Mizen, P. D., 2001. Goodhart's Law: Its Origins, Meaning and Implications for Monetary Policy . s.l.:s.n.
 - Desrosières, A., 2013. Pour une sociologie historique de la quantification. L’argument statistique I. Paris: Presses des Mines.
