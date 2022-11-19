@@ -10,7 +10,7 @@ Essayon d'ajouter quelques lignes de code
 
 
 
-![imagenet logo](https://i0.wp.com/syncedreview.com/wp-content/uploads/2020/06/ts-618.png?w=1774&ssl=1)
+![imagenet logo](https://dbdzm869oupei.cloudfront.net/img/alfombretaratoli/preview/30565.png)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
