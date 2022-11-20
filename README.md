@@ -10,8 +10,8 @@
 
 ### Qui a créé ce jeu de données ? À quelles fins ?
 
-Lorsque Spotify est lancé en 2006, l’enjeu de l’entreprise suédoise était simplement de connecter de rendre accessible au plus grand nombre un catalogue de musique le plus exhaustif possible. En effet, à ces prémices, “La tâche de Spotify est simplement de répondre à la demande de l’utilisateur” (Eriksson, Fleischer, Johansson, Snickars, & Vonderau, 2019).
-La base de données qui nous intéresse est le fruit d’une redirection de leur business model qui a fait évoluer la plateforme d’un simple catalogue, à une plateforme sociale et désormais un producteur de recommandation musicale depuis 2013. 
+Lorsque Spotify est lancée en 2006, l’enjeu de l’entreprise suédoise était simplement de rendre accessible au plus grand nombre un catalogue de musique le plus exhaustif possible. En effet, à ces prémices, “la tâche de Spotify est simplement de répondre à la demande de l’utilisateur” (Eriksson, Fleischer, Johansson, Snickars, & Vonderau, 2019).
+La base de données qui nous intéresse est le fruit d’une redirection de leur business model qui a fait évoluer la plateforme d’un simple catalogue, à une plateforme sociale et désormais à un producteur de recommandation musicale depuis 2013. 
 
 Les détails de l’infrastructure du géant de streaming musical est un des secrets les mieux gardés. Néanmoins, en 2014, l’acquisition de l’éditeur d’analyses de données musicales, The Echo Nest change la donne. En effet, l’introduction de playlists personnalisation mais surtout de la segmentation des publics fut permise grâce à l’implémentation de plusieurs Application Programming Interface (API) qui recueillent des métadonnées sur les artistes musicaux, les albums et les titres, directement à partir du catalogue de données de Spotify. 
 
