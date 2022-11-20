@@ -63,10 +63,16 @@ D’autres problèmes de catégorisation surviennent quant à la classification 
 
 ## **Bibliographie**
 
+- Brandall, B. (2018, juin 28). *Freemium Conversion Rate : Why Spotify Destroys Dropbox by 667%*. Récupéré sur Process Street: https://www.process.st/freemium-conversion-rate/ 
 - Chrystal, K. A. & Mizen, P. D., 2001. *Goodhart's Law: Its Origins, Meaning and Implications for Monetary Policy* . s.l.:s.n.
+- Cognie, L. (2018, novembre 22). *Spotify : les comptes de fées, ça se mérite*. Récupéré sur Wojo: https://www.wojo.com/blog/fr/du-bonheur-en-boite/2018/11/22/spotify-streaming-les-comptes-de-fees-ca-se-merite/ 
+- Dabi-Schwebel, G. (s.d.). *La data dans l'industrie musicale*. Récupéré sur 1min30: https://www.1min30.com/brand-marketing/data-musique-spotify-26956 
 - Desrosières, A., 2013. *Pour une sociologie historique de la quantification. L’argument statistique I*. Paris: Presses des Mines.
+- Eriksson, M., Fleischer, R., Johansson, A., Snickars, P., & Vonderau, P. (2019). *Spotify Teardown: Inside the Black Box of Streaming Music*. Cambridge: The MIT Press.
 - Espeland, W. & Sauder, M., 2007. Rankings and Reactivity: How Public Measures Recreate Social Worlds. *American Journal of Sociology*, CXIII(1).
 - Marwick, A. E., 2013. *Status update : celebrity, publicity, and branding in the social media age*. New Haven: Yale University Press.
 - Pariser, E., 2011. *The filter bubble*. London: Penguin Books.
+- Pasquinelli, M., & Joler, V. (2020). *The rise of AI statistical models as instruments of knowledge. A diagram of machine learning errors, biases and limitations*. Récupéré sur Nooscope: https://nooscope.ai
+- Pineau, K. & Fabre, A. (2021). Évaluer la captologie et le design persuasif des services numériques: Approche empirique de mesure de la persuasion et proposition d’une matrice d’évaluation. *I2D - Information, données & documents*, 2, 151-173.
 - Supiot, A., 2015. *La gouvernance par les nombres, Cours au Collège de France (2012-2014)*. Paris: Coll. « Poids et Mesures du Monde », Fayard.
 - Thévenot, L., 1992. *Des chiffres parlants: Mesure statistique et jugement ordinaire*. Paris: La cité des chiffres.
