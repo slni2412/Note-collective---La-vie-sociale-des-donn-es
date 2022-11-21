@@ -6,12 +6,15 @@
 
 ## **Introduction**
 
-Le streaming anglicisme, « est une technique de diffusion de lecture en ligne et en continu de données multimédias, qui évite le téléchargement de données et permet la diffusion en direct » ; cela peut être regarder une émission ou bien écouter de la musique en streaming, comme nous allons l’aborder aujourd’hui.
+ Le streaming anglicisme, « est une technique de diffusion de lecture en ligne et en continu de données multimédias, qui évite le téléchargement de données et permet la diffusion en direct » ; cela peut être regarder une émission ou bien écouter de la musique en streaming, comme nous allons l’aborder aujourd’hui.
+
 De nos jours, le streaming musical est le premier axé à l’écoute de musique dans le monde, en augmentation constante depuis des années. Ce développement du streaming provient de deux problèmes majeurs de l’écoute musicale. Effectivement, tout d’abord, que cela soit avec les cassettes audio, ou bien les CD, en passant enfin par les plateformes MP3, elle ne parvenait toujours pas à proposer une offre large et renouvelable à bas coût. Par ailleurs, le développement d’internet a mis en difficulté les artistes, victimes de téléchargements illégaux, fragilisant un peu plus leurs industries déjà fortement malmenées. De ce fait, la solution du streaming musical s'est avérée comme une solution innovante et pertinente palliant à ces problèmes dans l’industrie musicale.
- Comme le montre une nouvelle fois un rapport publié par l’IFPI, la durée d’écoute hebdomadaire est de 18,4 heures, majoritairement provenant des plateformes de streaming. De plus, si l’on compare avec leurs dernières études, le streaming représente à lui seul une augmentation de 51%, expliqué notamment par l’abonnement à prix réduit, permettant l’absence de publicité, l’écoute de morceaux à tout moment, et la richesse des catalogues proposés.
+
+Comme le montre une nouvelle fois un rapport publié par l’IFPI, la durée d’écoute hebdomadaire est de 18,4 heures, majoritairement provenant des plateformes de streaming. De plus, si l’on compare avec leurs dernières études, le streaming représente à lui seul une augmentation de 51%, expliqué notamment par l’abonnement à prix réduit, permettant l’absence de publicité, l’écoute de morceaux à tout moment, et la richesse des catalogues proposés.
 L’écoute via un abonnement de streaming audio fait face à un large choix de plateformes, que cela soit Apple Music, Deezer, ou encore Spotify. Ce dernier, géant suédois de la tech continue d’être la plateforme majoritaire représentant d’après une étude Midia 32% des parts de marché au début de l’année 2021.
+
 De ce fait, nous étudierons l'algorithme de la première plateforme musicale du monde, influant la plupart de leurs utilisateurs dans leurs écoutes, grâce à la collecte toujours plus importante de la data des utilisateurs. De ce fait, dans un premier temps nous allons évoquer la conception de cet algorithme, puis les usages, avant de terminer par les controverses.
-![imagenet logo](
+
 
 ## **I - Conception**
 
@@ -87,7 +90,8 @@ D’autres problèmes de catégorisation surviennent quant à la classification 
 
 ## **Conclusion**
 
-Spotify a donc évolué, passant d’un simple catalogue de musique, à un producteur de recommandation musicale à part entière. A l’aide de données numériques récoltées par différents biais, de faire des recommandations de plus en plus poussées à leurs consommateurs. En effet, les algorithmes de recommandations basés sur l’intelligence artificielle, dont l’objectif de recommandation personnalisé semble prendre de plus en plus de poids au sein de Spotify, est une réelle nouveauté dans l’univers du streaming musical.
+ Spotify a donc évolué, passant d’un simple catalogue de musique, à un producteur de recommandation musicale à part entière. A l’aide de données numériques récoltées par différents biais, de faire des recommandations de plus en plus poussées à leurs consommateurs. En effet, les algorithmes de recommandations basés sur l’intelligence artificielle, dont l’objectif de recommandation personnalisé semble prendre de plus en plus de poids au sein de Spotify, est une réelle nouveauté dans l’univers du streaming musical.
+
 Néanmoins de nombreux points importants sont à remettre en question concernant l’utilisation de classement par Spotify dans la consommation musicale actuelle. Effectivement, bien que les classements soient censés représenter la popularité d’un titre, les consommateurs sont de plus en plus méfiants concernant leur véracité, s’expliquant notamment par leurs méfiances concernant l'achat “d'écoute digitale”. Enfin, nous pourrions ajouter le souci de catégorisations présentant un réel enjeu de classification, comme indiqué dans notre entretien avec Clément de chez RapMinerz (en annexe), les discriminants et pouvant réduire leur popularité. 
 
 ## **Bibliographie**
