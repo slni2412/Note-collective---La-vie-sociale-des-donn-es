@@ -15,7 +15,6 @@ L’écoute via un abonnement de streaming audio fait face à un large choix de 
 
 De ce fait, nous étudierons l'algorithme de la première plateforme musicale du monde, influant la plupart de leurs utilisateurs dans leurs écoutes, grâce à la collecte toujours plus importante de la data des utilisateurs. De ce fait, dans un premier temps nous allons évoquer la conception de cet algorithme, puis les usages, avant de terminer par les controverses.
 
-
 ## **I - Conception**
 
 ### Qui a créé ce jeu de données ? À quelles fins ?
@@ -65,6 +64,7 @@ Les données disponibles sur les réseaux sociaux (likes, commentaires, retweets
 Par ailleurs, dans cette optique économique de l’utilisation des données, les maisons de disques tendent à s'intéresser également aux données des utilisateurs pour dénicher les futurs succès. Warner Music Group s’est par exemple rapproché de Shazam, afin de mesurer la fréquence à laquelle un titre est “shazamé” pour évaluer son succès potentiel. A l’instar de Shazam, c’est aussi sur l’évolution d’un titre dans les classement des utilisateurs qui détermine ses capacités d’émergence. Ainsi dans l’usage des données spotify, l’affaire porte sur les recommandations adressés aux utilisateurs : il s’agit de comprendre les goûts et les comportements de ces derniers afin d’en tirer le maximum pour le processus de prédiction. Selon Gabriel Dabi-Schwebel, fondateur de l’agence 1min30, “le combat de la data music ne fait que commencer”
 
 Enfin, l'usage des données Spotify touche également les créateurs. Lors de notre interview réalisé avec le rappeur amateur H.E.M, ce dernier affirme que lorsqu’il utilise la plateforme Spotify Artist, pour mettre en ligne sa musique, il dispose ensuite de nombreuses données : “j’ai accès au nombre de personnes qui ont écoutés tel ou tel son évidemment, mais aussi d’ou ils viennent, leur age, leur sexe, et meme quand ils mettent un son dans leur playlist, par exemple tout à l’heure j’ai vu que y’avait un saoudien qui avait mis mon son Demain dans une de ses playlist”. L’usage des données spotify est alors également profitable aux artistes qui font des données disponibles pour eux un usage comme bon leur semble (adaptation de stratégie musicale, cibler davantage de jeunes, etc.)
+
 ## **III - Controverses**
 
 ### Quelles sont les limites ou les critiques rencontrées par ce jeu données ?
@@ -96,7 +96,7 @@ Néanmoins de nombreux points importants sont à remettre en question concernant
 
 ## **Annexe**
 
-![Link](https://docs.google.com/document/d/1pPxPSK2lGjHp4Hz8dpxXQMxqcgJA36FqPqZ_OIOglco/edit?usp=sharing)
+[Lien vers le *Google Doc* contenant les transcripts de nos entretiens](https://docs.google.com/document/d/1pPxPSK2lGjHp4Hz8dpxXQMxqcgJA36FqPqZ_OIOglco/edit?usp=sharing)
 
 ## **Bibliographie**
 
