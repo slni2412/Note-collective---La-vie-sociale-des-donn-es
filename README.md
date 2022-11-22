@@ -94,6 +94,10 @@ D’autres problèmes de catégorisation surviennent quant à la classification 
 
 Néanmoins de nombreux points importants sont à remettre en question concernant l’utilisation de classement par Spotify dans la consommation musicale actuelle. Effectivement, bien que les classements soient censés représenter la popularité d’un titre, les consommateurs sont de plus en plus méfiants concernant leur véracité, s’expliquant notamment par leurs méfiances concernant l'achat “d'écoute digitale”. Enfin, nous pourrions ajouter le souci de catégorisations présentant un réel enjeu de classification, comme indiqué dans notre entretien avec Clément de chez RapMinerz (à retrouver en annexe), les discriminants et pouvant réduire leur popularité. 
 
+## **Annexe**
+
+![Link](https://docs.google.com/document/d/1pPxPSK2lGjHp4Hz8dpxXQMxqcgJA36FqPqZ_OIOglco/edit?usp=sharing)
+
 ## **Bibliographie**
 
 - Brandall, B. (2018, juin 28). *Freemium Conversion Rate : Why Spotify Destroys Dropbox by 667%*. Récupéré sur Process Street: https://www.process.st/freemium-conversion-rate/ 
@@ -112,6 +116,3 @@ https://dittomusic.com/en/blog/albums-vs-eps-vs-singles-a-guide-to-releasing-mus
 - Supiot, A. (2015). *La gouvernance par les nombres, Cours au Collège de France (2012-2014)*. Paris: Coll. « Poids et Mesures du Monde », Fayard.
 - Thévenot, L. (1992). *Des chiffres parlants: Mesure statistique et jugement ordinaire*. Paris: La cité des chiffres.
 - Vitt, R. (2022). « Comparatif service de streaming musical : Spotify, Deezer, YouTube Music, Amazon Music, quel est le meilleur ? » PhonAndroid. 22 avril 2022. https://www.phonandroid.com/musique-streaming-comparatif-meilleurs-services.html.
-
-
-
